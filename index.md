@@ -1,3 +1,7 @@
+---
+layout: home
+title: My Python Blog
+---
 # Welcome to My Python Blog
 
 Hi, I'm Arshit.
