@@ -1,3 +1,4 @@
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 title: Arshit's Python Blog
+theme: minima
 description: Bookmark this to keep an eye on my project updates!
