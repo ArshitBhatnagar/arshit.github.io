@@ -6,3 +6,4 @@ This blog documents m Python learning journey.
 
 ## Latest Posts
 Check the posts section.
+this is readme.md
