@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My Python Practice Day 1"
 date: 2026-03-12
 ---
